@@ -1,0 +1,2 @@
+# Facial-Landmarks-Detection-Project
+ This project focuses on detecting facial landmarks using deep learning techniques. The dataset used is the iBUG 300-W dataset, and the project leverages machine learning model to precisely identify key points on a face, such as eyes, nose, mouth, and chin.This repository includes all the code, prelearning steps(i.e small projects related to main project ) and documentation related to the project.
