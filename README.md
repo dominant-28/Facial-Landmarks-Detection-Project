@@ -195,6 +195,8 @@ Optimizer |    Adam Optimizer
 - HOW THE MODEL LEARNING:
  
 ![image](https://github.com/user-attachments/assets/fd37a0f7-00bf-47aa-9050-64ec451aacbf)
+![image](https://github.com/user-attachments/assets/c3939287-80ff-4587-8253-e6536923463f)
+
 
 
 
