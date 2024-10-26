@@ -16,8 +16,9 @@ The goal of the project is to develop a highly efficient model capable of accura
 
 
 ### MNIST-HANDWRITTEN DIGITS 
-The MNIST AND MNIST-HANDWRITTEN DIGITS datasets are used. These datasets contain 60,000 training samples and 10,000 test samples. Each sample in the MNIST dataset is a 28x28 pixel grayscale image of a single handwritten digit between 0 & 9.
-Implemented using numpy and pytorch with ANN alsov but here mention is of with pytorch and CNN.
+ - The MNIST AND MNIST-HANDWRITTEN DIGITS datasets are used. These datasets contain 60,000 training samples and 10,000 test samples. Each sample in the MNIST dataset is a 28x28 pixel grayscale image of a single 
+   handwritten digit between 0 & 9.
+ - Implemented using numpy and pytorch with ANN also but here mentioned is with pytorch and CNN.
 
 ![image](https://hackmd.io/_uploads/ByroZQK11x.png)
 
@@ -63,7 +64,7 @@ Optimizer |    Adam Optimizer
 * Accuracy
   - 89.66 % on the Trainset
   - 76.47 % on the Testset
-    Accuracy is less in this because CIFAR-10 is large dataset which required the deep neutral network for the training but we implemented it using simple CNN.
+  - Accuracy is less in this because CIFAR-10 is large dataset which required the deep neutral network for the training but we implemented it using simple CNN.
 
 
 
