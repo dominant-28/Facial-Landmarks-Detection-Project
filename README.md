@@ -1,3 +1,8 @@
+
+### 🔗 Demo  
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Demo-red?logo=streamlit)](https://facial-landmark-app-28.streamlit.app/)
+
+Click the link above to try out the Streamlit demo for this project.
 # FACIAL-LANDMARK-DETECTION
 
 This project focuses on detecting facial landmarks using deep learning techniques. The dataset used is the iBUG 300-W dataset, and the project leverages machine learning model to precisely identify key points on a face, such as eyes, nose, mouth, and chin.This repository includes all the code, prelearning steps(i.e small projects related to main project ) and documentation related to the project.
