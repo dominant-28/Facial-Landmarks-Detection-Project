@@ -214,6 +214,8 @@ Optimizer |    Adam Optimizer
 
 ### SOFTWARE TOOLS USED 
 - Python
+- PyTorch
+- CUDA
 - Numpy
 - PyTorch
 - PIL
